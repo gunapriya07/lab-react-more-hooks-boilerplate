@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+}
+  /* Input styles */
+  .todo-input {
+    width: fit-content;
+    height: 20%;
+    padding: 8px;
+    font-size: 16px;
+    border: 2px solid blue;
+    margin-bottom: 5px;
+  }
+  
+  /* Task styles */
+  .task {
+    margin: 8px 0;
+    padding: 8px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+  }
+  
+  /* Button styles */
+  .todo-button {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: palevioletred;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .hello{
+    background-color: bisque;
+  }
+  .toggle_btn{
+    background-color: black;
+    color: white;
+  }
